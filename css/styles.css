@@ -17,19 +17,6 @@ body {
     clear: both;
 }
 
-.two-column h1 {
-    font-size: 4.5vw;
-    color: grey;
-}
-
-.two-column h2 {
-    font-size: 3vw;
-}
-
-.two-column h3 {
-    font-size: 2vw;
-}
-
 
 /*Header*/
 
@@ -59,6 +46,19 @@ body {
     width: 50%;
     float: left;
     padding: 7%;
+}
+
+.two-column h1 {
+    font-size: 4.5vw;
+    color: grey;
+}
+
+.two-column h2 {
+    font-size: 3vw;
+}
+
+.two-column h3 {
+    font-size: 2vw;
 }
 
 .two-column img {
